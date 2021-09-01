@@ -3,6 +3,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Raleway', sans-serif;
 }
 /** header **/
 header{
@@ -22,6 +23,7 @@ header{
 main{
     background-color: rgb(233, 231, 231);
     padding-top: 30px;
+    padding-bottom: 10px;
 
     /**height: 400px;**/
 }
@@ -37,11 +39,14 @@ main{
     border-bottom: 1px solid lightgrey;
     padding: 20px;
     padding: 10px 50px;
+    margin-bottom:30px;
 
 }
 
 .conteiner{
-    padding: 10px 50px
+    padding: 0px 50px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
 }
 
 
@@ -89,7 +94,7 @@ main{
     background-color: rgb(2, 78, 36);
 }
 .tittle-botton-base{
-    padding: 3px 7px;
+    padding: 3px 10px;
     color: white;
     border: none;
     border-radius: 20px;
@@ -104,6 +109,7 @@ main{
     border: 1px solid rgb(4, 192, 29);
     border-radius: 50px;
     color:rgb(4, 192, 29) ;
+    margin-right: 10px;
     
     
 }
