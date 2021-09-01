@@ -44,20 +44,55 @@ main{
     padding: 10px 50px
 }
 
+
 .button-blue{
     background-color: rgb(57, 191, 253);
+    color: white;
     border: none;
     padding: 2px 5px
 }
+.section{
+    margin-top: 10px;
+}
 
+.tittle{
+    border-radius: 20px;
+}
 .button-white{
     background-color: white;
     border: 1px solid lightgrey;
     padding: 2px 5px;
+    color: grey;
 }
-
 .tittle{
     display: inline-block;
+}
+.botton-o{
+    background-color: orange;
+}
+.botton-v{
+    background-color: rgb(215, 15, 233);
+}
+.botton-b{
+    background-color: rgb(57, 191, 253);
+}
+
+.botton-g{
+    background-color: green;
+}
+
+.botton-l{
+    background-color: rgb(250, 166, 225);
+}
+
+.botton-gd{
+    background-color: rgb(2, 78, 36);
+}
+.tittle-botton-base{
+    padding: 3px 7px;
+    color: white;
+    border: none;
+    border-radius: 20px;
 }
 
 .freccia{
@@ -65,9 +100,10 @@ main{
 }
 
 .circle{
-    padding: 5px;
+    padding: 1px;
     border: 1px solid rgb(4, 192, 29);
     border-radius: 50px;
+    color:rgb(4, 192, 29) ;
     
     
 }
